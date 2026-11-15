@@ -1,0 +1,9 @@
+{
+  "key.elevenclients.gui": "Open ElevenClients GUI",
+  "key.elevenclients.zoom": "Zoom",
+  "category.elevenclients": "ElevenClients",
+  "key.elevenclients.spotify.play": "Spotify: play/pause",
+  "key.elevenclients.spotify.next": "Spotify: next",
+  "key.elevenclients.spotify.prev": "Spotify: previous",
+  "key.elevenclients.spotify.open": "Spotify: open window"
+}

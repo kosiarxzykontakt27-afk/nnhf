@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "pl.elevenclients.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftClientMixin",
+    "GameRendererMixin",
+    "InGameHudMixin",
+    "InGameOverlayRendererMixin",
+    "EntityMixin",
+    "SplashOverlayMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
